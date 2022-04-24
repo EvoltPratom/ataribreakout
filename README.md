@@ -2,4 +2,4 @@
 
 Just the classic game atari breakout
 
-[Click Here to Play](https://dimensionabot.dimensionalblad.repl.co/ataribreakout)
+<a href="https://dimensionabot.dimensionalblad.repl.co/ataribreakout" target="_blank">Click Here To Play!</a>
